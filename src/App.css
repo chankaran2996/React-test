@@ -1,0 +1,23 @@
+.title{
+  font-size: 50px;
+  color: rgb(238, 7, 7);
+  text-align: center;
+  
+}
+
+body{
+  background-image: linear-gradient(to right,lightgreen,lightgray,pink);
+}
+
+/* .student{
+  background-image: linear-gradient(to right, lightgreen, lightgray, pink);
+} */
+
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+  background-image: linear-gradient(
+    to right,
+    lightgreen,
+    lightgray,
+    pink
+  ) !important;
+}
